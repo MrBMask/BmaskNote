@@ -1,0 +1,51 @@
+搜狐号测试账号
+hubiaozuihao@sohu.com        AkweQ94024
+wb_test_1@sohu.com           VYVio61698
+wb_test_12@sohu.com          EQvRo85325
+
+搜狐号文档
+http://wiki.sohu-inc.com/pages/viewpage.action?pageId=28575463
+
+Java环境下安装路径
+Library->JavaT
+启动Tomac ./startup.sh
+关闭Tomac ./shutdown.sh
+
+百度小程序appID  22853136
+微信小程序appID  wxca1341d4f1f55c6f
+
+
+
+
+
+1.进入证书目录 ~/Library/MobileDevice/Provisioning\ Profiles/（Command+Shift+G进入）
+
+2.删除对应证书,或者删除全部证书即可。
+
+
+
+
+//flutter 下载目录
+/Users/bmask/flutterDevelopment
+
+
+
+项目实战
+SDK
+组件化
+CCache
+MVVM
+埋点 即时上报 缓冲上报
+CI  gitLib自动打包平台
+项目优化
+极客学院 戴铭高手课程
+
+
+其他准备
+网络
+算法
+
+
+八股文面经
+
+

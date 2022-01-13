@@ -1,0 +1,35 @@
+郝靓Q4总结
+
+一.flutter动态化
+1.完成action事件采集上报
+2.通过RenderObject树绑定widge树采集组件在页面的ev曝光事件，信息组件曝光事件采集，绑定模版下发log日志完成flutter动态化统一触发ev事件上报
+3.完成flutter不同模式下pv事件采集，
+a.包括pageView卡片模式下切换pv事件的采集以及上报
+b.通过模版url初始化页面获取页面生命周期，在生命周期各阶段维护全局页面控制栈，完成pv页面事件采集工作，在flutterboost兼容下完成pv事件的上报工作
+4.完成flutter动态化数据滚动列表的渲染工作，完成天象台数据列表展示
+
+二.快应用
+1.熟悉快应用开发环境以及阅读快应用开发文档
+2.完成快应用视频页面以及视频推荐页面功能开发
+3.完成快应用视频以及视频推荐埋点上报
+4.解决视频播放标签和小程序端对齐问题
+
+
+三.flutter
+1.完成flutter短内容开发
+2.完成短内容埋点上报
+3.解决iOS场景下flutterboost和iOS tabar模式下唤醒flutter页面造成bug
+
+四.搜狐网推送重启
+1.重新部署手机搜狐网推送sdk以及api更新
+2.完成搜狐网sdk与壳工程通知接口接偶
+3.同友盟sdk相关人员连调推送
+
+
+五.困难克服
+1.flutter页面在部门模拟器下，通过cocoapod集成到iOS原生项目下，在启动flutter页面会flutter 引擎初始化失败，导致flutter页面为透明页面。
+2.flutterboost页面路由多次刷新
+3.真机模式下flutter项目build success但无法运行真机。错误原因flutter在通过cocoapod升级下会更改.swift framework文件路径，导致错误无法启动app。
+
+
+
