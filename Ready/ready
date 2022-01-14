@@ -1,1 +1,27 @@
-study
+知识补充
+1.block 源码分析
+2.crash 统计以及 bugly   友盟 原理 自定义线上如何实现crash统计
+3.rsa的原理 以及 strong weak 原理及底层
+4.组件化实现方式  cocoapod插件化  cocoapod优化
+5.项目优化  卡顿检测
+6.八股文
+7.启动过程 原理
+8.事件监听 
+9.runtime  runloop
+10.http协议  即时通讯 
+
+
+
+
+
+
+项目亮点
+1.动态化 swiftUI
+2.flutter 动态化
+3.暗黑模式切换 实现原理是 NSHashTable 高阶容器 实现协议
+4.mvvm + rsa
+5.快应用
+6.小程序
+7.主导项目负责
+8.埋点SDK
+9.组件化
